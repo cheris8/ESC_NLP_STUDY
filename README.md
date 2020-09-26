@@ -11,20 +11,17 @@
 매주 일요일 20:00-22:00
 
 **스터디 커리큘럼**  
-- 텍스트 전처리 (Text Preprocessing)
-    - 정규표현식 (Regex)
-    - 불용어 제거
-    - 형태소 분석
-    - 어간 추출 & 원형 복원
-- 텍스트 표현 (Text_Representation)
-    - 정수 인코딩 & 원-핫 인코딩 (Integer_Encoding_One_Hot_Encoding)
-    - Bag of Words, Document-Term Matrix, TF-IDF (BoW_DTM_TFIDF)
-    - 워드임베딩 (WordEmbedding_Overview, WordEmbedding_Word2Vec, WordEmbedding_GloVe, WordEmbedding_FastText)
-- 머신러닝 기반 텍스트 마이닝
-    - 문서 유사도
-    - 언어 모델 (Language_Model)
-    - 토픽 모델링
-    - 감성 분석
-- 딥러닝 기반 자연어처리
-    - RNN (RNN_charlevel, RNN_wordlevel)
-    - LSTM
+|회차|날짜|내용|
+|--|---|----|
+|1회차|09.27|- 토큰화, 형태소 분석, 품사 태깅, 어간 추출, 원형 복원, 불용어 제거|
+|2회차|-|Regex, 정수 인코딩, 원-핫 인코딩|
+|3회차|-|BoW, DTM, TF-IDF|
+|4회차|-|문서 유사도|
+|5회차|-|토픽 모델링|
+|6회차|-|감성 분석|
+|7회차|-|Torchtext Tutorial, Word Embedding|
+|7회차|-|Word2Vec|
+|8회차|-|GloVe, FastText|
+|7회차|-|통계적 언어 모델, N-gram 언어 모델|
+|8회차|-|RNN|
+|9회차|-|LSTM|
