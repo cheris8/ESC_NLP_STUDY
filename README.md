@@ -20,8 +20,7 @@
 |5회차|-|토픽 모델링|
 |6회차|-|감성 분석|
 |7회차|-|Torchtext Tutorial, Word Embedding|
-|7회차|-|Word2Vec|
-|8회차|-|GloVe, FastText|
-|7회차|-|통계적 언어 모델, N-gram 언어 모델|
-|8회차|-|RNN|
-|9회차|-|LSTM|
+|8회차|-|Word2Vec|
+|9회차|-|GloVe, FastText|
+|10회차|-|통계적 언어 모델, N-gram 언어 모델|
+|11회차|-|RNN, LSTM|
